@@ -6,7 +6,13 @@ background-color: black;
 
 a{
 text-decoration: none;
+color: white;
 }
+
+a#links{
+    text-decoration: none;
+    color: white;
+    }
 
 .wit{
 color:white    
